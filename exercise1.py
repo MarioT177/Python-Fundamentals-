@@ -12,11 +12,11 @@ print("Hello World")
 # exercise 2-1
 message= ("fundamentals of python")
 print(message)
-# exercise 2-1
-message=("exercise 2-1")
+# exercise 2-2
+message=("exercise 2-2")
 print(message)
-explanation=("coding")
-print(explanation)
+message=("coding")
+print(message)
 # What I did in this exercise is Ive added a variable to named explanation and it is connected to the value I gave it
 # which is coding
 def display_message():
@@ -32,6 +32,9 @@ favorite_book('Alice in Wonderland')
 
 # In this section we created functions that help us preform tasks. They also save us time because by using functions
 # we dont have to type the same code mutiple times for the same tasks. It also makes our code neater and more organized.
+
+
+
 
 
 
