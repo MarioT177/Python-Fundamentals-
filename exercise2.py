@@ -34,12 +34,15 @@ simple2()
 # 3.Write a function called message that takes 1 argument. Inside that function, write a print function that takes
 # the argument
 
-def message(title):
-   """write a message"""
-   print(f"my last name is {title}")
+def message(arg1):
+    print(arg1)
 
 
-message('Trujillo')
+message('purple')
+
+
+
+
 
 
 
