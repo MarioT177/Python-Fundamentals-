@@ -86,7 +86,6 @@ prob_5(0)
 prob_5(0.4)
 prob_5(0.0)
  # 12 = true , 1.2 = true , 0 = false, 0.4 = true, 0.0=false
- 
 
 
 
@@ -103,7 +102,8 @@ prob_5(0.0)
 
 
 
-# arguement was
+
+
 
 
 
