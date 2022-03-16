@@ -71,4 +71,3 @@ for filename in filenames:
     else:
         print(f"\nReading file: {filename}")
         print(contents)
-        
