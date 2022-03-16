@@ -80,7 +80,8 @@ def vehicles(**truck):
 
 
 # using the default arguement allows you to have more than one, with one
-# given a default value. These defualt come after other arguements
+# given a default value.
+# These defualt come after other arguements
 def my_hello(arg, arg2='hi'):
     print(arg2 + ' ' + arg)
 

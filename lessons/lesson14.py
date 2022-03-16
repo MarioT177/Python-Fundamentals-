@@ -41,7 +41,7 @@ class TestHouse(unittest.TestCase):
      def test_door_open_close(self):
          self.assertIsNone(self.house.door_open_close())
 
-         
+
 
 
 if __name__ == '__main__':
